@@ -1,6 +1,6 @@
 # 💰 FinTech – Your Personal Finance Companion 🚀
 
-![FinTech Banner]([image/home.png]) <!-- Replace with your actual image path -->
+![FinTech Banner]([Finance/image/home.png]) <!-- Replace with your actual image path -->
 
 ## 🌟 About FinTech
 
